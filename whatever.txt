@@ -1,5 +1,0 @@
-1. How do you know where to start?
-
-2. What is the best way to debug?
-
-3.  How to translate latitude and longitude to cartesian points?
