@@ -13,3 +13,5 @@ found after searching -> DOM
 can you read this?
 
 yes
+
+My image is not showing up on my Simple-HTML-Site after making a server.js. Copied full path AND moved to public folder. What gives? 
